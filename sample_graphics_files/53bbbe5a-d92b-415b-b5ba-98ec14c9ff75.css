@@ -1,0 +1,49 @@
+@import url(/t/1.css?apiType=css&projectid=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75);
+@font-face{
+font-family:"Stone Serif ITC W02 Md";
+src:url("/d/200e11fb-fb16-4401-87df-e38c29b0d675.eot?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("eot");}
+@font-face{
+font-family:"Stone Serif ITC W02 Md";
+src:url("/d/200e11fb-fb16-4401-87df-e38c29b0d675.eot?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75");
+src:url("/d/09b5ecab-c569-4a6c-ac1f-141aa17345b1.woff?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("woff"),url("/d/38b03a46-5ea8-4571-93aa-6ff74e68dba5.ttf?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("truetype"),url("/d/db337b95-9713-428c-bfd9-3acb40adf3e5.svg?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75#db337b95-9713-428c-bfd9-3acb40adf3e5") format("svg");
+}
+@font-face{
+font-family:"StoneSerifITCW02-MdIt";
+src:url("/d/f1618082-72a9-4f6b-918e-3e980906a2a2.eot?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("eot");}
+@font-face{
+font-family:"StoneSerifITCW02-MdIt";
+src:url("/d/f1618082-72a9-4f6b-918e-3e980906a2a2.eot?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75");
+src:url("/d/e20e3083-250f-4464-afae-75bd49e799d3.woff?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("woff"),url("/d/fcfcc0fc-ae39-4079-a66c-8a8a0d20de21.ttf?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("truetype"),url("/d/084f6a8a-f5b1-44b3-b403-953df01d588c.svg?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75#084f6a8a-f5b1-44b3-b403-953df01d588c") format("svg");
+}
+@font-face{
+font-family:"Georgia W01 Bold";
+src:url("/d/2338c483-564b-4c57-9234-83177c8a3d98.eot?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("eot");}
+@font-face{
+font-family:"Georgia W01 Bold";
+src:url("/d/2338c483-564b-4c57-9234-83177c8a3d98.eot?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75");
+src:url("/d/d2f9060f-3485-482f-b5a0-b91faa67bab3.woff?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("woff"),url("/d/ba156a5c-30d4-40b0-a2c3-f47833f4777d.ttf?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("truetype"),url("/d/abacc501-a85f-4796-b521-492b016ddbf9.svg?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75#abacc501-a85f-4796-b521-492b016ddbf9") format("svg");
+}
+@font-face{
+font-family:"Georgia W01 Bold Italic";
+src:url("/d/23bc0f18-2c73-491d-a06b-f41a2da880aa.eot?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("eot");}
+@font-face{
+font-family:"Georgia W01 Bold Italic";
+src:url("/d/23bc0f18-2c73-491d-a06b-f41a2da880aa.eot?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75");
+src:url("/d/3ef28fe1-5d06-4661-b98f-e231840184f7.woff?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("woff"),url("/d/5425b8eb-5ac7-44cc-8471-4b04a90a9030.ttf?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("truetype"),url("/d/eef3df57-bffc-49e1-97c7-fdf801de2b52.svg?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75#eef3df57-bffc-49e1-97c7-fdf801de2b52") format("svg");
+}
+@font-face{
+font-family:"Georgia W01 Italic";
+src:url("/d/2cb5a0e9-e849-4157-bc27-c40666689ba2.eot?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("eot");}
+@font-face{
+font-family:"Georgia W01 Italic";
+src:url("/d/2cb5a0e9-e849-4157-bc27-c40666689ba2.eot?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75");
+src:url("/d/c93679cc-a6a0-44eb-8596-adb4d5cb22de.woff?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("woff"),url("/d/b7b3b2b4-01fb-43a6-8331-4bcf91428fb3.ttf?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("truetype"),url("/d/39f8467c-4358-4a4b-a43f-8b26bd049b35.svg?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75#39f8467c-4358-4a4b-a43f-8b26bd049b35") format("svg");
+}
+@font-face{
+font-family:"Georgia W01 Regular";
+src:url("/d/75be06e7-f47c-4da4-9560-6da7d93e6396.eot?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("eot");}
+@font-face{
+font-family:"Georgia W01 Regular";
+src:url("/d/75be06e7-f47c-4da4-9560-6da7d93e6396.eot?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75");
+src:url("/d/39a18a82-9fba-4a18-9b26-872bc05243b8.woff?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("woff"),url("/d/8e57c617-cc4f-47b5-8efb-392f187458ab.ttf?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75") format("truetype"),url("/d/381bc0d5-81a7-4124-ae56-5bc752d472b2.svg?d44f19a684109620e484147eaf90e8185edd66a41b648a2a8173514ad5354e0fea1a46d920b8f5005fc774cc85e87c70bc5809c18fb6ee2722dd274dbc62aafbdae0fbcffd4b136a7d05ca5a50b1&projectId=53bbbe5a-d92b-415b-b5ba-98ec14c9ff75#381bc0d5-81a7-4124-ae56-5bc752d472b2") format("svg");
+}

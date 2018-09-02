@@ -1,0 +1,132 @@
+@charset "utf-8";
+
+/****************************************************************
+ BODY, FONT AND COLOR, GLOBAL                       (id=GENERIC)
+*****************************************************************/
+
+body {font:normal 12px Arial; color:#000; text-align:left; padding:0; background:#f5eee8;}
+* {margin:0; padding:0;}
+
+
+/* GLOBAL RESET*/
+/*****************************************************************
+STYLES FOR H1 TO H6 AND ALL GLOBAL RESETS              (id=HEAD)
+******************************************************************/
+
+h1,h2,h3,h4,h5,h6,label,a {text-decoration:none}
+a {color:#125687; text-decoration:none ; outline:none}
+a:hover {text-decoration:underline;}
+a:focus{text-decoration:underline;}
+/*a:active, a:focus {outline:0}*/ 
+a:active,a:focus{outline:#4d433b dotted thin !important; }  /* to avoid link borders on new browsers */
+img {border:none}
+ul,li {padding:0; margin:0; list-style:none}
+p {line-height:18px;}
+h2 a:hover {color:#FF5A00;}
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section { 
+    display:block;
+}
+
+.test1 {
+color:red;
+}
+
+.videoSearch .videoHolder .video {
+    float: left;
+    height: 279px;
+    width: 495px;
+}
+
+
+.videoSearch .videoHolder h4 {
+    color: #106470;
+    float: left;
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    margin-bottom: 24px;
+    margin-top: 12px;
+    text-align: left;
+    width: 100%;
+}
+
+.videoSearch .videoHolder .video a {
+    background: url("/etc/designs/gsk/images/video-play-btn.png") no-repeat scroll 0 0 transparent;
+    border: 1px solid #000;
+    color: #125687;
+    display: block !important;
+    height: 32px;
+    left: 8px;
+    position: relative;
+    text-indent: -999em;
+    top: -274px;
+    width: 32px;
+}
+   
+
+/* Quarterly results title */   
+          
+.qr-videoReleaseYear {
+    background: none repeat-x scroll 0 0 #FF5A00;
+    color: #FFFFFF;
+    float: left;
+    font-family: arial;
+    font-size: 12pt;
+    font-weight: bold;
+    margin-right: 2px;    
+    padding: 4px 10px 5px 10px;   
+     
+}             
+  
+.qr-videoReleaseDesc {
+    background: none repeat-x scroll 0 0 #F5EEE8;
+    color: #4D433B;
+    float: left;
+    font-family: arial;
+    font-size: 12pt;   
+    font-weight: normal;    
+    padding: 5px 10px;     
+    paddin-left:10px;    
+    padding-right:10px; 
+    margin-left:-2px;          
+}       
+.qr-titlestyle{
+    border-top: 1px #d4d4d4 solid;             
+    margin-bottom: 50px;          
+    margin-top:-1px;                                    
+}                            
+                                     
+.qr-storyboardcontent{ position: relative;   }                              
+   
+.qr-storyboardcontent .qr-bottomtext{font-family:Georgia;
+    font-size: 13.5pt; position: relative;   
+    width:444px !important; color: #fff; left:10px;padding-right:16px;  
+    background-color:#000; opacity: 0.8;  }     
+           
+.qr-topLeft{color:#000; position: absolute;background-color:#fff;z-index:9999;font-family: Arial; font-size: 12pt; font-weight: bold; float:left;padding:4px;}     
+                          
+                                     
+.qr-topLeft-small{color:#000; position: absolute;background-color:#fff; font-family: Arial; font-size: 12pt; font-weight: bold; z-index: 1;padding:4px;float:left }        
+            
+.qr-bottomtext-small{opacity: 0.8;  width: 219px;float: left;position: relative;color: #fff; background-color: #000; font-family: Georgia;font-size: 13px; padding:5px;}           
+                        
+.qr-playicon{ background-color:#000 !important; opacity: 0.8;  position: relative;  left:10px; z-index: 999; bottom:0px; background: url("/etc/designs/gsk/images/qr-video-play-btn.png") no-repeat scroll 0 0 transparent;  width:34px; height:34px; }   
+
+.qr-desc-container{position:absolute;bottom:0;left:0; padding:0 3px 6px 6px}      
+           
+.qr-playicon-small{background-color:#000 !important; opacity: 0.8;  position: relative; float: left; bottom: 0px;  background: url("/etc/designs/gsk/images/qr-video-play-btn.png") no-repeat scroll 0 0 transparent;  width:34px; height:34px;  }   
+
+.qr-smallvideo-image {position: relative; width:240px; height:168px; }   
+   
+.qr-bigvideo-image {width: 480px; height: 354px;position:relative;top:0;left:0}         
+       
+                         
+div .cq-colctrl-lt5-c1 .storyboardcontent{width:240px; height:168px; } 
+
+  
+.qr-storyboardcontent a {
+    text-decoration: none;
+}  
+
+.gig-button-container-twitter-tweet iframe {width:80px !important;}
