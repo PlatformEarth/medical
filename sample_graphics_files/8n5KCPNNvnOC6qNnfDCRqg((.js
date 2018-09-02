@@ -1,2 +1,0 @@
-
-try{Bootstrapper.setCurrentRuleId(81903);var newScript=document.createElement("script");newScript.setAttribute('data-org','GSK');newScript.setAttribute('src','//cookieq.com/cdn/tg.js');newScript.setAttribute('async','true');document.body.appendChild(newScript);;}catch(e){Bootstrapper.reportException(e);};
